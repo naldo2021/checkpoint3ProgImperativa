@@ -1,4 +1,4 @@
-# checkpoint3ProgImperativa
+# checkpoint 3 Programação Imperativa
 
 Certifield Tech Developer
 
@@ -10,6 +10,6 @@ Os arquivos construidos foram:
 * cursos.js
 * estudantes.js
 
-Para funcionamento do arquivo execultar o comando:
+Para funcionamento do arquivo executar o comando:
 
 node cursos.js
